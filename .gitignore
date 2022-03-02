@@ -13,4 +13,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+.bash_history
 .docker/dbdata/

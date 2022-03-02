@@ -37,7 +37,7 @@ APP_NAME="Full Cycle"
 APP_URL=http://localhost:8000
 
 DB_CONNECTION=mysql
-DB_HOST=mysql
+DB_HOST=db
 DB_PORT=3306
 DB_DATABASE=code_micro_videos
 DB_USERNAME=root
