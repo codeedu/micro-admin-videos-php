@@ -1,0 +1,4 @@
+{
+    "php.suggest.basic": false,
+    "intelephense.environment.phpVersion": "8.1.1",
+}
