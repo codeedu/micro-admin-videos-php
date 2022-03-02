@@ -1,4 +1,4 @@
-# Microsserviço Catalogo de Vídeo (PHP v.8) (Clean Arch + TDD + DDD)
+# Microsserviço Catálogo de Vídeos (PHP v.8) (Clean Arch + TDD + DDD)
 
 ## (Domain + Application)
 
